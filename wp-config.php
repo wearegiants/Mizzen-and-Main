@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'mizzenmaDBb228s');
+define('DB_NAME', 'mizzenmaDBtlixx');
 
 /** MySQL database username */
-define('DB_USER', 'mizzenmaDBb228s');
+define('DB_USER', 'mizzenmaDBtlixx');
 
 /** MySQL database password */
-define('DB_PASSWORD', '5S8HKBbSVe');
+define('DB_PASSWORD', 'jB2HneE3hH');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         ']d#:5Dht-_GOWd_[19dpw5CKSw~|:SZhos-![NVdk[4Cgow@CJRZ@|}8ckszCJRv@');
-define('SECURE_AUTH_KEY',  'Z1do4GRz|NZk}8Goz|NZ!}8gr@^}Ugr3BNv^}Ug>3Fnz,MY^{7fr$EQy,Xju7Iq$');
-define('LOGGED_IN_KEY',    '^X^6fq2EPy.Tfq2Emy.LXe<6EmxALX*]69HS+#Oal;9Lt~HOa_;9ht~HS-#1Zlw');
-define('NONCE_KEY',        'ubnAMu^IXj{6fq$EPb.6fq2EPy.;Xi]6Hq+<PXi2Dmx9LW*]6ep29Lt*]Sep2D');
-define('AUTH_SALT',        'vRz>4cn07Jr$>QcnBjv^IQc,Bju7EQy,Xfq3EQy.MXj{6Imy.MX*{6fq+IT+<2');
-define('SECURE_AUTH_SALT', 'I^{7fq3EQy.Xi{6Imy.LXi2EmxALX*]6eq2ALt*]Teq2Dmx_LWi]5ep+DOa_;Wht');
-define('LOGGED_IN_SALT',   '5-:d:Gs_Sh:Gs_R~:ds8N@:ds8NzJZ|8kzFY|4gzFv,Qk0Fr,Qg0Fr^Q$brBQ$Y');
-define('NONCE_SALT',       'xa]ap6L+]5Lx#Wl1hwDS_1dwCS~1ds8o~Kd[8k~KZ[8k-Jw|Vk0Jv|Vk4gvFU!4gz');
+define('AUTH_KEY',         ']hW;~tL9xiW<xPEymX.eTH*qH6]iX<$qI7{jT{^uTI*uiA<bPfUI,znF3>gU3>$');
+define('SECURE_AUTH_KEY',  'i2<ibTL<*yqE7<jbUM>^yrMF7yqjb73{.$XQIA$unf3},$UNF^zrkF70>rjcU}');
+define('LOGGED_IN_KEY',    'LujbU<^yQIB$unfIA6<jbTM<^yqME7jfYQ},$vQJB3vngYB3{,fYQI,$vnJB3}');
+define('NONCE_KEY',        'N-sKC4:0[!ZVNG8zsk91[_aSKD~wphD5:#ohZSOG9-sld2]_+WPH9+tle92]_leWO');
+define('AUTH_SALT',        'qELTbEMUb^<7<7Ejnu$,$.{3Xfmufnu$AEMT7FMUy^>3,}3Bgnv$u$,{QYfnYc');
+define('SECURE_AUTH_SALT', '}Fkrz!ks-!GNVdOVdl[18G4CJRw@|}@|:4dlt-9GOWGOWd_[1918GOs-![-_[1Vdl');
+define('LOGGED_IN_SALT',   'k4GN8GNVz|:4~lsdKWOVdl[18G19GOs-_[t+_]OWelWepHOWe_]19]x~#qx*HPWeP');
+define('NONCE_SALT',       ',XfrUckr07FN8FNUz!>0>07Fjrz^rz^>QYgJRZg|}4C:4CJow@|@|}4Ygovgov@BJ');
 
 /**#@-*/
 
